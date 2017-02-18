@@ -1,0 +1,42 @@
+body
+{
+	background-image: url(../images/power.jpg);
+	background-size: 100%;
+}
+
+.jumbotron
+{
+	width: 590px;
+	height: 60px;
+	margin: 3% 0% 0% 29%;
+	padding: 5px 5px 15px 5px;
+	font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 3px 2px #00ffff;
+    border-radius: 15px;
+    border: 2px solid #4d4dff;
+    opacity: 0.4;
+    filter: alpha(opacity=50);
+}
+
+.container-fluid
+{
+	width: 590px;
+	height: 300px;
+	margin: 2% 4% 4% 29%;
+	padding: 60px 5px 5px 5px;
+	box-shadow: 0px 0px 10px 6px #4aaaa5;
+    background-image: url(../images/brain.jpg);
+    background-size: 100%;
+	border-radius: 15px;
+    border: 2px solid #4d4dff;
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 3px 2px #00ffff;
+    opacity: 0.7;
+    filter: alpha(opacity=50);
+}
+
